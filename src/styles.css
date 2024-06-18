@@ -1,5 +1,27 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url(../public/Comfortaa-Regular.ttf);
+}
+
+@font-face {
+    font-family: Bubbleboddy;
+    src: url(../public/bubbleboddyneue-regular\ trial.ttf);
+}
+
 p, a, h1, h2, h3 {
     color: #151217;
+}
+
+p, a {
+    font-family: Comfortaa;
+}
+
+h1, h2, h3 {
+    font-family: Bubbleboddy;
+}
+
+.text-center {
+    text-align: center;
 }
 
 main {
