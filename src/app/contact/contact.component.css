@@ -1,0 +1,15 @@
+.padding-top-3 {
+    padding-top: 3%;
+}
+
+.padding-bottom-3 {
+    padding-bottom: 3%;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.underline-hov:hover {
+    text-decoration: underline;
+}
